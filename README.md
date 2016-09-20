@@ -1,4 +1,4 @@
 # ProgressBar
 Progress Bar
 
-Ön Ýzleme Ýçin : Týklayýn
+<a href="http://veyselinanc.com/proje/progressbar/ProgressBar.html">Click to preview</a>
